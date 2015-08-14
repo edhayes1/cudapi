@@ -9,7 +9,7 @@ you'll need the -std=c++11 flag for both the nvcc and g++.
 First you need to install linux CUDA drivers and the Nvidia toolkit:
 http://docs.nvidia.com/cuda/cuda-getting-started-guide-for-linux/#axzz3ihWNglZK
 
-on ubuntu, it is easiest to download the "run" installer, and execute that, follow the on-screen instructions (after reading the documentation on the link, if you mess it up, your X server may break... Just like mine did...
+on ubuntu, it is easiest to download the "run" installer, and execute that, follow the on-screen instructions (after reading the documentation on the link, if you mess it up, your X server may break... Just like mine did...).
 
 once you have the cuda driver and toolkit installed, try:
 ```
