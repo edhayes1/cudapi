@@ -1,8 +1,7 @@
 # cudapi (linux only)
 
-compile .cu files using nvcc. Comes with the nvidia toolkit version 7.
-you'll need the -std=c++11 flag for both the nvcc and g++.
-
+This readme details the steps to get the samples provided to compile and run on linux.
+Samples are examples of calculating pi using various different pieces of hardware.
 
 ### Compilation:
 
